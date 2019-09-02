@@ -1,8 +1,0 @@
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\bin\Debug\qrGenSample.exe.config
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\bin\Debug\qrGenSample.exe
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\bin\Debug\qrGenSample.pdb
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\bin\Debug\QRCoder.dll
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\bin\Debug\qrGenTool.dll
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\bin\Debug\qrGenTool.pdb
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\obj\Debug\qrGenSample.exe
-E:\Proyectos\visual_studio\cSharp\qrGenSample\qrGenSample\obj\Debug\qrGenSample.pdb
