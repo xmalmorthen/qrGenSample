@@ -253,3 +253,5 @@ paket-files/
 
 # CodeRush
 .cr/
+
+!/Libs/*.pdb
